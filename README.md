@@ -1,5 +1,6 @@
 ### Hi there 👋
-You can find us here: https://www.vpnpalvelut.com/
+On our site you can find VPN reviews, info about VPN services, and tips how to use those.
+🌎 https://www.vpnpalvelut.com/
 <!--
 **VPNpalvelut/vpnpalvelut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
